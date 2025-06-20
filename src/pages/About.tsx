@@ -29,17 +29,17 @@ const About = () => {
               </div>
               <div className="space-y-2">
                 <p>
-                  <strong>Имя:</strong> Александр Петров
+                  <strong>Имя:</strong> Влад
                 </p>
                 <p>
-                  <strong>Возраст:</strong> 21 год
+                  <strong>Возраст:</strong> 16 лет
                 </p>
                 <p>
-                  <strong>Специальность:</strong> Прикладная математика и
-                  информатика
+                  <strong>Специальность:</strong> специалист по компьютерным
+                  сетям и комплексам
                 </p>
                 <p>
-                  <strong>Курс:</strong> 3 курс
+                  <strong>Курс:</strong> 1 курс
                 </p>
               </div>
             </div>
